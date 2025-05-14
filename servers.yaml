@@ -1,0 +1,7 @@
+servers:
+  - name: server1
+    host: 192.168.0.1
+    port: 32000
+  - name: server2
+    host: 192.168.0.2
+    port: 32001
